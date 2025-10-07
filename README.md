@@ -61,7 +61,7 @@ Enter Token2 to complete login
 
 
 
-#Theory (Short Explanation)
+# Theory (Short Explanation)
 
 This system uses Zero-Knowledge Proof (ZKP) to securely authenticate a user without exposing their password:
 
